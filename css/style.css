@@ -1,6 +1,6 @@
 path {
     fill-opacity: 0;
-    transition: fill-opacity 1s;
+    transition: fill-opacity 4s;
   }
 
 .fill path.path_black{
@@ -8,14 +8,9 @@ path {
   fill-opacity: 1;
 }
 
-.fill path.path_yellow{
-  fill: #E9C229;
+.fill path.path_white{
+  fill: #ffffff;
   fill-opacity: 1;
-}
-
-.fill path.path_red{
-  fill: #D71518;
-fill-opacity: 1;
 }
 
 .fill path{
