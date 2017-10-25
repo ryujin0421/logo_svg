@@ -1,0 +1,23 @@
+path {
+    fill-opacity: 0;
+    transition: fill-opacity 1s;
+  }
+
+.fill path.path_black{
+  fill: #000;
+  fill-opacity: 1;
+}
+
+.fill path.path_yellow{
+  fill: #E9C229;
+  fill-opacity: 1;
+}
+
+.fill path.path_red{
+  fill: #D71518;
+fill-opacity: 1;
+}
+
+.fill path{
+stroke:none;
+}
